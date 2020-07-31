@@ -1,0 +1,116 @@
+[
+  {
+    "index": 0,
+    "column_name": "Time",
+    "data_type": "date",
+    "delimiter":","
+  },
+  {
+    "index": 1,
+    "column_name": "Type",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 2,
+    "column_name": "RecCatName",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 3,
+    "column_name": "Order",
+    "data_type": "int",
+    "delimiter":","
+  },
+  {
+    "index": 4,
+    "column_name": "Batch",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 5,
+    "column_name": "UnitPCU",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 6,
+    "column_name": "UnitNo",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 7,
+    "column_name": "UnitName",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 8,
+    "column_name": "PCU",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 9,
+    "column_name": "Module",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 10,
+    "column_name": "InstNo",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 11,
+    "column_name": "InstName",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 12,
+    "column_name": "MsgText",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 13,
+    "column_name": "MsgID",
+    "data_type": "int",
+    "delimiter":","
+  },
+  {
+    "index": 14,
+    "column_name": "Status",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 15,
+    "column_name": "MsgClass",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 16,
+    "column_name": "BatchYear",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 17,
+    "column_name": "RecCatNo",
+    "data_type": "str",
+    "delimiter":","
+  },
+  {
+    "index": 18,
+    "column_name": "MsgDefNo",
+    "data_type": "str",
+    "delimiter":","
+  }
+]
